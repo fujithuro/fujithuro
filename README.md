@@ -1,6 +1,5 @@
 Hi threre 👋
 
-- My X(Twitter) account is [@THuRo_FUJI](https://twitter.com/THuRo_FUJI)
 - My Qiita account is [@fujithuro](https://qiita.com/fujithuro)
 - My presentation document is on [Docswell](https://www.docswell.com/user/fujithuro)
 
